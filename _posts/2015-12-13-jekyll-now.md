@@ -15,19 +15,19 @@ Jekyll Now [바로가기](http://www.jekyllnow.com/)
 3. 글 올리기
 4. 글 확인하기
 
-tip 1. 작업 중인 포스트 공간? '_drafts'
+tip 1. 작업 중인 포스트 공간? '_drafts'<br>
 tip 2. 로컬에서도 확인? 
 
 ----
 ## 1. github 가입
-[github](https://github.com/)가서 회원 가입
+- [github](https://github.com/)가서 회원 가입
 
 
 ## 2. jekyll-now 사용
-[jekyll-now 이동](https://github.com/barryclark/jekyll-now)<br>
-화면 우측상단에 ![fork]({{ site.baseurl }}/images/jekyll-now-fork.png) 을 선택 <br>
-fork 후 설정에 'Repository name' 수정 'github_id.github.io'<br>
-'_config.yml' 파일을 열어서 필요한 정보를 넣어준다.
+- [jekyll-now 이동](https://github.com/barryclark/jekyll-now)<br>
+- 화면 우측상단에 ![fork]({{ site.baseurl }}/images/jekyll-now-fork.png) 을 선택 <br>
+- fork 후 설정에 'Repository name' 수정 'github_id.github.io'<br>
+- '_config.yml' 파일을 열어서 필요한 정보를 넣어준다.
 
 ```
 name: bamssong
@@ -40,7 +40,7 @@ avatar: https://s.gravatar.com/avatar/d665410aea0cdd6aa0ad1f31714daed7?s=80
 
 ![jekyll-post]({{ site.baseurl }}/images/jekyll-post.png "jekyll post 하기")
 
-우측상단에 'New file'선택 후 'YYYY-MM-DD-title.md' 형식으로 파일을 생성
+- 우측상단에 'New file'선택 후 'YYYY-MM-DD-title.md' 형식으로 파일을 생성
 
 ```
 ---
@@ -49,21 +49,21 @@ title: Jekyll Now 사용하기
 ---
 마크다운 형식에 블로그 내용
 ```
-글 작성 후 'Commit new file'에 작업 기록을 남기고 (안남겨도 된다) 'Commit new file' 버튼을 선택한다.
+- 글 작성 후 'Commit new file'에 작업 기록을 남기고 (안남겨도 된다) 'Commit new file' 버튼을 선택한다.
 
 
 ## 4. 글 확인하기
 
-**http://bamssong.github.io** 이동해서 확인.
+- **http://bamssong.github.io** 이동해서 확인.
 
 
 ## tip 1. 작업 중인 포스트 공간? '_drafts'
 
-아직 공개하고 싶지 않은 글이 있는경우 _drafts 폴더를 만들어서 '3. 글 올리기' 작업을 하면 된다.
+- 아직 공개하고 싶지 않은 글이 있는경우 _drafts 폴더를 만들어서 '3. 글 올리기' 작업을 하면 된다.
 
 
 ## tip 2. 로컬에서도 확인?
-로컬에서 작업하고, 로컬 서버를 통해서 확인 후 리모트 저장소에 올리고 싶을 때 사용하면 된다.
+- 로컬에서 작업하고, 로컬 서버를 통해서 확인 후 리모트 저장소에 올리고 싶을 때 사용하면 된다.
 
 ```
 1. Install Jekyll and plug-ins in one fell swoop. 
