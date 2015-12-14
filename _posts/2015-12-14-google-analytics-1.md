@@ -30,9 +30,9 @@ published: True
 
 ----
 ## 2. 구글 애널리틱스의 기본 원리 및 계정 구조
-![구글 애널리틱스 보고서 생성 시나리오]({{ site.baseurl }}/images/analytics_개념_1.png "구글 애널리틱스 보고서 생성 시나리오")
+![구글 애널리틱스 보고서 생성 시나리오]({{ site.baseurl }}/images/analytics_principle_1.png "구글 애널리틱스 보고서 생성 시나리오")
 
-![구글 애널리틱스 계정 구조]({{ site.baseurl }}/images/analytics_개념_2.png "구글 애널리틱스 계정 구조")
+![구글 애널리틱스 계정 구조]({{ site.baseurl }}/images/analytics_principle_2.png "구글 애널리틱스 계정 구조")
 
 ----
 ## 3. 추적 코드 설치하기
