@@ -7,7 +7,9 @@ published: True
 
 ---
 
-구글 애널리틱스 시작하기 영상 정리한 내용입니다.
+구글 애널리틱스 시작하기 영상 정리
+
+*[애널리틱스를 잘 정리한 곳 보러가기](http://www.thedigitalmkt.com/google_analytics_basics/)*
 
 *영상 [보러가기](https://www.youtube.com/watch?v=oWJf2a2ufG8)*
 
