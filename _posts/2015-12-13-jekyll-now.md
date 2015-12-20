@@ -14,6 +14,7 @@ Jekyll Now [바로가기](http://www.jekyllnow.com/)
 2. jekyll-now 사용
 3. 글 올리기
 4. 글 확인하기
+5. About 수정하기
 
 tip 1. 작업 중인 포스트 공간? '_drafts'<br>
 tip 2. 로컬에서도 확인? 
@@ -55,6 +56,12 @@ title: Jekyll Now 사용하기
 ## 4. 글 확인하기
 
 - **http://bamssong.github.io** 이동해서 확인.
+
+## 5. About 수정하기
+/about.md 파일을 수정하면 됩니다.
+
+![jekyll-about]({{ site.baseurl }}/images/jekyll-now-about.png "jekyll now about 수정하기")
+
 
 
 ## tip 1. 작업 중인 포스트 공간? '_drafts'
