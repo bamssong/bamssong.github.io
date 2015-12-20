@@ -4,12 +4,39 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+평범한 개발자?
 
-### More Information
+Android&iOS 앱 개발 프리랜서<br>
+그러고 보니.. 밤쏭이 앱 런칭한 적이 없네요.!
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### 요즘 뭐하나?
+서버개발과 디자인&UX가능한 친구와 둘이서 스타트업을 해보려고 시동 중인데 벌써 1년이 다되어 가네요.(뭘했지...?!)
 
-[email@domain.com](mailto:email@domain.com)
+iOS용 내부 테스트앱 개발하면서, <br>
+"Sketch" 앱으로 디자인 해보는데 완전 재미있어요!
+
+
+### 2015년은 끝나가니~ 2016년 목표.
+- Android&iOS 밤쏭이 앱 런칭!
+- Nestberg 앱 런칭하기~
+
+
+### 끄적끄적
+동물 완전 좋아합니다. <br>
+(하지만 끝까지 함께 할 자신이 없어..키우지 못하고 있어요..)
+
+만화 보는거 그리는거 좋아합니다. 코스프레도...
+
+책읽기 좋아합니다.<br>
+(한 5년간 책을 구매한 적이... IT서적만 구매..했네요.
+어쩐지 너무 내 마음이 컴퓨터 같더라.)
+
+
+### 이 글을 읽어 주신 고마운 분께 하고 싶은 말
+...음... 사랑합니다... <br>
+
+<br>
+<br>
+
+[dev.bamssong@gmail.com](mailto:dev.bamssong@gmail.com)
