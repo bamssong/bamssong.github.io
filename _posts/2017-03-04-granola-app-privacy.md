@@ -1,13 +1,11 @@
 ---
 layout: post
-title: post
+title: 그래놀라 안드로이드 앱 개인정보 취급방침
 categories: []
 tags: []
 published: True
 
 ---
-
-## 그래놀라 안드로이드 앱 개인정보 취급방침
 
 그래놀라 앱이란?
 

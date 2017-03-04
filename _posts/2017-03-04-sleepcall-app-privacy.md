@@ -1,13 +1,11 @@
 ---
 layout: post
-title: post
+title: 방해금지 안드로이드 앱 개인정보 취급방침
 categories: []
 tags: []
 published: True
 
 ---
-
-## 방해금지 안드로이드 앱 개인정보 취급방침
 
 방해금지 앱이란?
 
